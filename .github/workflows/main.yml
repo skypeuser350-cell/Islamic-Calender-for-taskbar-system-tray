@@ -15,7 +15,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install pystray Pillow hijridate pyinstaller
+          pip install pystray Pillow hijridate requests pyinstaller
 
       - name: Build EXE
         run: |
