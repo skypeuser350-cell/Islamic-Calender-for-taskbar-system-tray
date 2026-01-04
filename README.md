@@ -11,6 +11,8 @@ Features
 
 📦 Standalone EXE: Does not require Python to be installed on your computer.
 
+🎟 Super Light weight : Yes on hardware below 1GB RAM it will stil run smoothly
+
 --Installation & Download
 Click on the releases button and then download the folder by scrolling down.
 
